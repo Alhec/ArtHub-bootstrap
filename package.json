@@ -1,0 +1,19 @@
+{
+  "name": "arthub-bootstrap",
+  "version": "1.0.0",
+  "description": "ArtHub bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alhec/ArtHub-bootstrap.git"
+  },
+  "author": "Alhec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alhec/ArtHub-bootstrap/issues"
+  },
+  "homepage": "https://github.com/Alhec/ArtHub-bootstrap#readme"
+}
